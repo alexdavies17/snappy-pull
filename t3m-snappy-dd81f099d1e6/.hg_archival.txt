@@ -1,0 +1,6 @@
+repo: c39ad4d798872383c3abd3211f37fff2a57c910c
+node: dd81f099d1e6846a05c71e19dc77dfcd6ba5db9a
+branch: default
+latesttag: 2.6.1_as_released
+latesttagdistance: 25
+changessincelatesttag: 28
