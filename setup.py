@@ -527,7 +527,7 @@ long_description = long_description.split('==\n\n')[1]
 long_description = long_description.split('Credits')[0]
 
 # Off we go ...
-setup( name = 'snappy',
+setup( name = 'snappy_knots',
        version = version,
        zip_safe = False,
        install_requires = install_requires,
